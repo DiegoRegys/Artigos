@@ -10,5 +10,5 @@ Este repositório reúne todos os artigos escritos e publicados por mim, Diego R
             <br>
             <em>Resumo:</em> O artigo "A Ascensão das Indústrias de Manhwa e Webtoons: Uma Análise do Impacto Cultural e Econômico na Era Digital" de Diego Lopes explora como essas formas de quadrinhos coreanos, tanto impressos quanto digitais, têm influenciado a cultura e a economia globalmente. Com a era digital, o Manhwa (quadrinhos coreanos) e os Webtoons (quadrinhos digitais publicados online em formato de rolagem vertical) têm se tornado cada vez mais populares.
             <br>
-            <a href="https://github.com/DiegoRegys/Artigos/blob/main/A%20Ascens%C3%A3o%20das%20Ind%C3%BAstrias%20de%20Manhwa%20e%20Webtoons%20Uma%20An%C3%A1lise%20do%20Impacto.docx">Link para o Artigo 1</a>
+            <a href="A Ascensão das Indústrias de Manhwa e Webtoons Uma Análise do Impacto.docx">Link para o Artigo 1</a>
         </li>

@@ -12,8 +12,6 @@ Este repositório reúne todos os artigos escritos e publicados por mim, Diego R
             <br>
             <a href="A Ascensão das Indústrias de Manhwa e Webtoons Uma Análise do Impacto.docx">Link para o Artigo 1</a>
         </li>
-        
-<h2>Conteúdo</h2>
     <ul>
         <li>
             <strong>Artigo 2:</strong> A Igreja Adventista Do Sétimo Dia E O Discurso Apocalíptico: Influências Nas Narrativas Conspiratórias Contemporâneas (2025).
